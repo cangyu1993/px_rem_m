@@ -1,5 +1,7 @@
 <template>
-  <div class="hello"></div>
+  <div class="hello">
+    <van-button plain type="primary">朴素按钮</van-button>
+  </div>
 </template>
 
 <script>
